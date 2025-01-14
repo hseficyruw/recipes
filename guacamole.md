@@ -8,3 +8,6 @@
 * tomato
 * garlic
 * black pepper
+
+## Directions
+* add salt to bowl
