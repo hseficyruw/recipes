@@ -6,3 +6,5 @@
 * cilantro
 * onion
 * tomato
+* garlic
+* black pepper
